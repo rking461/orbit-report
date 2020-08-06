@@ -1,0 +1,55 @@
+.sortable {
+
+    cursor: pointer;
+
+    color: #dd5;
+
+}
+
+
+
+.warning {
+
+    background-color: #d64ecb;
+
+}
+
+
+
+table {
+
+  color: rgb(197, 172, 27);
+
+  border-radius: 10px;
+
+  overflow: hidden;
+
+  margin: 20px 0;
+
+  min-width: 500px;
+
+  background: #64c5cc;
+
+}
+
+
+
+.header-row {
+
+    background: #34495E;
+
+    color: #fff
+
+}
+
+
+
+th, td {
+
+    text-align: left;
+
+    margin: 5px 10px;
+
+    padding: 6px;
+
+}
